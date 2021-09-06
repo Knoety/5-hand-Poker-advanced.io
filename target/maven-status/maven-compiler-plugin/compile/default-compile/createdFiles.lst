@@ -1,0 +1,11 @@
+com\standard\card\lookup\LookUps.class
+com\standard\card\services\CardDraw.class
+com\standard\card\Exceptions\ExceptionManager.class
+com\standard\card\services\Messages.class
+com\standard\card\utilities\RankIncludes.class
+com\standard\card\services\CardsDeck.class
+com\standard\card\utilities\CardRank.class
+com\standard\card\utilities\Suits.class
+com\standard\card\utilities\HandRankingUtility.class
+com\standard\card\services\PrepareResults.class
+com\standard\card\main\StandardCardPoker.class
